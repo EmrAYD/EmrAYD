@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre!</h1>
 
 
-<p>🌐 Socials:</p>
+#🌐 Socials:
 
 
 <a href="https://discord.gg/Jkj49xA2KE"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
