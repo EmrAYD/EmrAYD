@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emre!</h1>
 
 
-#🌐 Socials:
-
+# 🌐 Socials:
 
 <a href="https://discord.gg/Jkj49xA2KE"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
 
 # 💻 Tech Stack:
-<div><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white"/>
+<div align="center"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white"/>
