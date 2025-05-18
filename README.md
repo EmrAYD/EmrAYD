@@ -2,11 +2,14 @@
 
 
 # 🌐 Socials:
-
-<p align="center"><a href="https://discord.gg/Jkj49xA2KE"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a></p>
+<div align="center">
+<a href="https://www.instagram.com/_emreaydogdu_/"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23c13584.svg?logo=instagram&logoColor=white"></a>
+<a href="https://discord.gg/Jkj49xA2KE"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
+</div>
 
 # 💻 Tech Stack:
-<div align="center"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white"/>
+<div align="center">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white"/>
@@ -20,9 +23,3 @@
 # 📊 GitHub Stats:
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=EmrAYD&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/></p>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmrAYD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=EmrAYD&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
